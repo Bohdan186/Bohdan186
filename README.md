@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Bohdan</h1>
+
 # 💫 About Me:
 🔭 I’m currently working on writing tests for the best wordpress theme<br>🌱 I’m currently learning API, JWT, Express<br>💬 Ask me about php or wordpress<br>⚡ Fun fact I'm a programmer without a computer
 
